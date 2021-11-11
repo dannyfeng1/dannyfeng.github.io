@@ -328,9 +328,9 @@ input, select, textarea {
 			margin-left: 25%;
 		}
 
-		.row > .col-4 {
+		/* .row > .col-4 {
 			width: 33.33333%;
-		}
+		} */
 
 		.row > .off-4 {
 			margin-left: 33.33333%;
@@ -2584,7 +2584,7 @@ input, select, textarea {
 
 /* Mobile */
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 800px) {
 
 		/* Basic */
 
@@ -2610,7 +2610,6 @@ input, select, textarea {
 			}
 
 		/* Main */
-
 			#main > section {
 				padding: 2em 0;
 			}
